@@ -1,4 +1,4 @@
-export default function Aparelhos(params) {
+export default function Aparelhos() {
     return(
         <>
 

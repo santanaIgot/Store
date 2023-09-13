@@ -1,4 +1,4 @@
-export default function Visualizar(params) {
+export default function Visualizar() {
     return(
         <>
             <main>
